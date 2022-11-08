@@ -16,6 +16,18 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddRepositories();
 builder.Services.AddServices();
 
+var allowResources = "AllowResources";
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: allowResources,
+        builder => builder
+            .WithOrigins("http://localhost:4200")
+            .AllowAnyHeader()
+            .AllowAnyMethod()
+            .AllowCredentials());
+});
+
 builder.Services.AddAutoMapper(typeof(Program).Assembly, typeof(UserRepository).Assembly);
 builder.Services.AddMediatR(typeof(Program).Assembly, typeof(UserRepository).Assembly);
 
@@ -44,6 +56,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors(allowResources);
 
 app.UseHttpsRedirection();
 
