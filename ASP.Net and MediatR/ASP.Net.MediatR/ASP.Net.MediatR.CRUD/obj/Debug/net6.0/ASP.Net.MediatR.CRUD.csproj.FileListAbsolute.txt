@@ -1,0 +1,12 @@
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.CRUD\obj\Debug\net6.0\ASP.Net.MediatR.CRUD.csproj.AssemblyReference.cache
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.CRUD\obj\Debug\net6.0\ASP.Net.MediatR.CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.CRUD\obj\Debug\net6.0\ASP.Net.MediatR.CRUD.AssemblyInfoInputs.cache
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.CRUD\obj\Debug\net6.0\ASP.Net.MediatR.CRUD.AssemblyInfo.cs
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.CRUD\obj\Debug\net6.0\ASP.Net.MediatR.CRUD.csproj.CoreCompileInputs.cache
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.CRUD\bin\Debug\net6.0\ASP.Net.MediatR.CRUD.deps.json
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.CRUD\bin\Debug\net6.0\ASP.Net.MediatR.CRUD.dll
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.CRUD\bin\Debug\net6.0\ASP.Net.MediatR.CRUD.pdb
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.CRUD\obj\Debug\net6.0\ASP.Net.MediatR.CRUD.dll
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.CRUD\obj\Debug\net6.0\refint\ASP.Net.MediatR.CRUD.dll
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.CRUD\obj\Debug\net6.0\ASP.Net.MediatR.CRUD.pdb
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.CRUD\obj\Debug\net6.0\ref\ASP.Net.MediatR.CRUD.dll

@@ -3,7 +3,43 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.Net.MediatR.DAL", "ASP.Net.MediatR.DAL\ASP.Net.MediatR.DAL.csproj", "{1FBAA6F9-B164-4D01-AA70-48F8A44C146A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.Net.MediatR.CRUD", "ASP.Net.MediatR.CRUD\ASP.Net.MediatR.CRUD.csproj", "{8586B63D-15DF-451E-A52B-C9F777C022BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.Net.MediatR.Contacts", "ASP.Net.MediatR.Contacts\ASP.Net.MediatR.Contacts.csproj", "{FF15AD17-E5BB-405B-9E3B-B6B926C2C5DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.Net.MediatR.Services", "ASP.Net.MediatR.Services\ASP.Net.MediatR.Services.csproj", "{2BB81B8F-9B17-4E85-A443-035326727754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.Net.MediatR.API", "ASP.Net.MediatR.API\ASP.Net.MediatR.API.csproj", "{2EAF6B0A-7786-400A-A3C6-447A1896E50F}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FBAA6F9-B164-4D01-AA70-48F8A44C146A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBAA6F9-B164-4D01-AA70-48F8A44C146A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBAA6F9-B164-4D01-AA70-48F8A44C146A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBAA6F9-B164-4D01-AA70-48F8A44C146A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8586B63D-15DF-451E-A52B-C9F777C022BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8586B63D-15DF-451E-A52B-C9F777C022BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8586B63D-15DF-451E-A52B-C9F777C022BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8586B63D-15DF-451E-A52B-C9F777C022BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF15AD17-E5BB-405B-9E3B-B6B926C2C5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF15AD17-E5BB-405B-9E3B-B6B926C2C5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF15AD17-E5BB-405B-9E3B-B6B926C2C5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF15AD17-E5BB-405B-9E3B-B6B926C2C5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB81B8F-9B17-4E85-A443-035326727754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB81B8F-9B17-4E85-A443-035326727754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB81B8F-9B17-4E85-A443-035326727754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB81B8F-9B17-4E85-A443-035326727754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EAF6B0A-7786-400A-A3C6-447A1896E50F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EAF6B0A-7786-400A-A3C6-447A1896E50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EAF6B0A-7786-400A-A3C6-447A1896E50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EAF6B0A-7786-400A-A3C6-447A1896E50F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

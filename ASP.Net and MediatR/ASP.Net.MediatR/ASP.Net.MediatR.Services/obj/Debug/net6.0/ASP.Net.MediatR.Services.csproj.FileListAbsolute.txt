@@ -1,0 +1,17 @@
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\bin\Debug\net6.0\ASP.Net.MediatR.Services.deps.json
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\bin\Debug\net6.0\ASP.Net.MediatR.Services.dll
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\bin\Debug\net6.0\ASP.Net.MediatR.Services.pdb
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\bin\Debug\net6.0\ASP.Net.MediatR.Contacts.dll
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\bin\Debug\net6.0\ASP.Net.MediatR.CRUD.dll
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\bin\Debug\net6.0\ASP.Net.MediatR.Contacts.pdb
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\bin\Debug\net6.0\ASP.Net.MediatR.CRUD.pdb
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\obj\Debug\net6.0\ASP.Net.MediatR.Services.csproj.AssemblyReference.cache
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\obj\Debug\net6.0\ASP.Net.MediatR.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\obj\Debug\net6.0\ASP.Net.MediatR.Services.AssemblyInfoInputs.cache
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\obj\Debug\net6.0\ASP.Net.MediatR.Services.AssemblyInfo.cs
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\obj\Debug\net6.0\ASP.Net.MediatR.Services.csproj.CoreCompileInputs.cache
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\obj\Debug\net6.0\ASP.Net.MediatR.Services.csproj.CopyComplete
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\obj\Debug\net6.0\ASP.Net.MediatR.Services.dll
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\obj\Debug\net6.0\refint\ASP.Net.MediatR.Services.dll
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\obj\Debug\net6.0\ASP.Net.MediatR.Services.pdb
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Services\obj\Debug\net6.0\ref\ASP.Net.MediatR.Services.dll

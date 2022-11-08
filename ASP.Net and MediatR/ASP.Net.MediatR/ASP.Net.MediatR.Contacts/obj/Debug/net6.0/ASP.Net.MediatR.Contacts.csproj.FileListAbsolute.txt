@@ -1,0 +1,15 @@
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Contacts\bin\Debug\net6.0\ASP.Net.MediatR.Contacts.deps.json
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Contacts\bin\Debug\net6.0\ASP.Net.MediatR.Contacts.dll
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Contacts\bin\Debug\net6.0\ASP.Net.MediatR.Contacts.pdb
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Contacts\bin\Debug\net6.0\ASP.Net.MediatR.CRUD.dll
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Contacts\bin\Debug\net6.0\ASP.Net.MediatR.CRUD.pdb
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Contacts\obj\Debug\net6.0\ASP.Net.MediatR.Contacts.csproj.AssemblyReference.cache
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Contacts\obj\Debug\net6.0\ASP.Net.MediatR.Contacts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Contacts\obj\Debug\net6.0\ASP.Net.MediatR.Contacts.AssemblyInfoInputs.cache
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Contacts\obj\Debug\net6.0\ASP.Net.MediatR.Contacts.AssemblyInfo.cs
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Contacts\obj\Debug\net6.0\ASP.Net.MediatR.Contacts.csproj.CoreCompileInputs.cache
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Contacts\obj\Debug\net6.0\ASP.Net.MediatR.Contacts.csproj.CopyComplete
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Contacts\obj\Debug\net6.0\ASP.Net.MediatR.Contacts.dll
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Contacts\obj\Debug\net6.0\refint\ASP.Net.MediatR.Contacts.dll
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Contacts\obj\Debug\net6.0\ASP.Net.MediatR.Contacts.pdb
+D:\Projects\ASP.Net and MediatR\ASP.Net.MediatR\ASP.Net.MediatR.Contacts\obj\Debug\net6.0\ref\ASP.Net.MediatR.Contacts.dll

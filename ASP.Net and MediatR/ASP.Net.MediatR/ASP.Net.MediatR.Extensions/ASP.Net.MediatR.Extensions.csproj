@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ASP.Net.MediatR.DAL\ASP.Net.MediatR.DAL.csproj" />
+    <ProjectReference Include="..\ASP.Net.MediatR.Services\ASP.Net.MediatR.Services.csproj" />
+  </ItemGroup>
+
+</Project>
