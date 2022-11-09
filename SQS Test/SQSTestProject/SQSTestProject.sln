@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQSTestProject.S3Publisher", "SQSTestProject.S3Publisher\SQSTestProject.S3Publisher.csproj", "{88EE5E9D-EFC2-410B-8249-681D2DC594AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQSTestProject.Receiver", "SQSTestProject.Receiver\SQSTestProject.Receiver.csproj", "{7B8F3552-97F7-4F2C-8024-410849611E34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88EE5E9D-EFC2-410B-8249-681D2DC594AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EE5E9D-EFC2-410B-8249-681D2DC594AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EE5E9D-EFC2-410B-8249-681D2DC594AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EE5E9D-EFC2-410B-8249-681D2DC594AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B8F3552-97F7-4F2C-8024-410849611E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8F3552-97F7-4F2C-8024-410849611E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8F3552-97F7-4F2C-8024-410849611E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8F3552-97F7-4F2C-8024-410849611E34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8346C141-EC4D-4ACF-AC56-9FF00C3968AE}
+	EndGlobalSection
+EndGlobal

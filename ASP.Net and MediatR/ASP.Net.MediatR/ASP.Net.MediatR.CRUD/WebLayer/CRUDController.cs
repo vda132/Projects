@@ -4,7 +4,6 @@ using AutoMapper;
 using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Extensions.Caching.Memory;
 
 namespace ASP.Net.MediatR.CRUD.WebLayer;
@@ -29,7 +28,7 @@ public class CRUDController<TCreateViewModel, TViewModel, TDto, TId> : BaseApiCo
 
         var model = _mapper.Map<TCreateViewModel, TDto>(viewModel);
 
-        var result = await _mediator.Send(new CreateCommand<TDto, TId>(model));
+        var result = await _mediator.Send(new CreateCommand<TDto, TId>(model), cancellationToken);
 
         if (result.HasErrors && !result.IsSystemError)
             return BadRequest(result.Errors);
@@ -45,7 +44,7 @@ public class CRUDController<TCreateViewModel, TViewModel, TDto, TId> : BaseApiCo
     [ProducesResponseType(typeof(IActionResult), StatusCodes.Status500InternalServerError)]
     public async Task<IActionResult> Get(CancellationToken cancellationToken)
     {
-        var result = await _mediator.Send(new GetAllQuery<TDto, TId>());
+        var result = await _mediator.Send(new GetAllQuery<TDto, TId>(), cancellationToken);
 
         if (result.IsSystemError)
             return StatusCode(StatusCodes.Status500InternalServerError, result.Errors);
@@ -61,7 +60,7 @@ public class CRUDController<TCreateViewModel, TViewModel, TDto, TId> : BaseApiCo
     [ProducesResponseType(typeof(IActionResult), StatusCodes.Status500InternalServerError)]
     public async Task<IActionResult> Get(TId id, CancellationToken cancellationToken)
     {
-        var result = await _mediator.Send(new GetByIdQyery<TDto, TId>(id));
+        var result = await _mediator.Send(new GetByIdQyery<TDto, TId>(id), cancellationToken);
 
         if (result.Data == default)
             return NotFound(result.Errors);
@@ -85,7 +84,7 @@ public class CRUDController<TCreateViewModel, TViewModel, TDto, TId> : BaseApiCo
 
         var model = _mapper.Map<TViewModel, TDto>(viewModel);
 
-        var result = await _mediator.Send(new UpdateCommand<TDto, TId>(model));
+        var result = await _mediator.Send(new UpdateCommand<TDto, TId>(model), cancellationToken);
 
         if (result.HasErrors && !result.IsSystemError)
             return NotFound(result.Errors);

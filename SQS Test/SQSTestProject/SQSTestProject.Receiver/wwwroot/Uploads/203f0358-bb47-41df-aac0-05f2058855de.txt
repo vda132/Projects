@@ -1,0 +1,2 @@
+https://habr.com/ru/post/658847/
+https://github.com/dotnet/corefx/blob/09e2417cd0505df4558535651efb1bbcffdf0c59/src/Common/src/CoreLib/System/Span.Fast.cs#L142
