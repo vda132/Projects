@@ -55,10 +55,6 @@
             "AWSSDK.SQS": {
               "target": "Package",
               "version": "[3.7.100.14, )"
-            },
-            "Amazon.Lambda.S3Events": {
-              "target": "Package",
-              "version": "[3.0.0, )"
             }
           },
           "imports": [

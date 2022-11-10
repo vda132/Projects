@@ -2,19 +2,6 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Amazon.Lambda.S3Events/3.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netcoreapp3.1/Amazon.Lambda.S3Events.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/Amazon.Lambda.S3Events.dll": {
-            "related": ".xml"
-          }
-        }
-      },
       "AWSSDK.Core/3.7.100.14": {
         "type": "package",
         "compile": {
@@ -153,19 +140,6 @@
     }
   },
   "libraries": {
-    "Amazon.Lambda.S3Events/3.0.0": {
-      "sha512": "fuBVzMnTx6sdcFrF6wDD4wyR5Dy/YN6+bX8QHVE/4hil2si7Y/MQkGXDDPUbH/sAjtZLZ0T6h7DS6guZ1kK0qg==",
-      "type": "package",
-      "path": "amazon.lambda.s3events/3.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "amazon.lambda.s3events.3.0.0.nupkg.sha512",
-        "amazon.lambda.s3events.nuspec",
-        "lib/netcoreapp3.1/Amazon.Lambda.S3Events.dll",
-        "lib/netcoreapp3.1/Amazon.Lambda.S3Events.xml"
-      ]
-    },
     "AWSSDK.Core/3.7.100.14": {
       "sha512": "gnEgxBlk4PFEfdPE8Lkf4+D16MZFYSaW7/o6Wwe5e035QWUkTJX0Dn4LfTCdV5QSEL/fOFxu+yCAm55eIIBgog==",
       "type": "package",
@@ -338,8 +312,7 @@
     "net6.0": [
       "AWSSDK.Extensions.NETCore.Setup >= 3.7.2",
       "AWSSDK.S3 >= 3.7.101.14",
-      "AWSSDK.SQS >= 3.7.100.14",
-      "Amazon.Lambda.S3Events >= 3.0.0"
+      "AWSSDK.SQS >= 3.7.100.14"
     ]
   },
   "packageFolders": {
@@ -397,10 +370,6 @@
           "AWSSDK.SQS": {
             "target": "Package",
             "version": "[3.7.100.14, )"
-          },
-          "Amazon.Lambda.S3Events": {
-            "target": "Package",
-            "version": "[3.0.0, )"
           }
         },
         "imports": [

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "71XY9ihAdV30uVmGzPRggMkDE6+VeRUGIU3FrwKKvNc=",
+  "Hash": "stfntRFQJMFRKqjY04CrsFYJE78QHw4BTqKNnECLQv4=",
   "Source": "SQSTestProject.Receiver",
   "BasePath": "_content/SQSTestProject.Receiver",
   "Mode": "Default",
@@ -153,6 +153,23 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\7334acae-36de-4ea2-9020-bc359ff7cb91.pdf"
     },
     {
+      "Identity": "D:\\Projects\\SQS Test\\SQSTestProject\\SQSTestProject.Receiver\\wwwroot\\Uploads\\787ecc6a-c1e3-4fee-998c-98caf69754dd.jfif",
+      "SourceId": "SQSTestProject.Receiver",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\SQS Test\\SQSTestProject\\SQSTestProject.Receiver\\wwwroot\\",
+      "BasePath": "_content/SQSTestProject.Receiver",
+      "RelativePath": "Uploads/787ecc6a-c1e3-4fee-998c-98caf69754dd.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\787ecc6a-c1e3-4fee-998c-98caf69754dd.jfif"
+    },
+    {
       "Identity": "D:\\Projects\\SQS Test\\SQSTestProject\\SQSTestProject.Receiver\\wwwroot\\Uploads\\ab06332e-b3e9-4f70-85d6-b5c8d4614367.pdf",
       "SourceId": "SQSTestProject.Receiver",
       "SourceType": "Discovered",
@@ -168,6 +185,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\ab06332e-b3e9-4f70-85d6-b5c8d4614367.pdf"
+    },
+    {
+      "Identity": "D:\\Projects\\SQS Test\\SQSTestProject\\SQSTestProject.Receiver\\wwwroot\\Uploads\\b68ce7f9-7b3b-4b9c-8ba3-446bb9c08d56.pdf",
+      "SourceId": "SQSTestProject.Receiver",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\SQS Test\\SQSTestProject\\SQSTestProject.Receiver\\wwwroot\\",
+      "BasePath": "_content/SQSTestProject.Receiver",
+      "RelativePath": "Uploads/b68ce7f9-7b3b-4b9c-8ba3-446bb9c08d56.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\b68ce7f9-7b3b-4b9c-8ba3-446bb9c08d56.pdf"
     },
     {
       "Identity": "D:\\Projects\\SQS Test\\SQSTestProject\\SQSTestProject.Receiver\\wwwroot\\Uploads\\e6f4594f-7ce9-4a30-b62d-e341380a0bbd.docx",

@@ -2,7 +2,6 @@
 using Amazon.S3.Util;
 using Amazon.SQS;
 using Amazon.SQS.Model;
-using System.IO;
 
 namespace SQSTestProject.Receiver.BackGround;
 

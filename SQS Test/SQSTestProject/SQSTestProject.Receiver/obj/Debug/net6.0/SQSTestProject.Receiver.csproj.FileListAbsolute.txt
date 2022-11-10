@@ -6,7 +6,6 @@ D:\Projects\SQS Test\SQSTestProject\SQSTestProject.Receiver\bin\Debug\net6.0\SQS
 D:\Projects\SQS Test\SQSTestProject\SQSTestProject.Receiver\bin\Debug\net6.0\SQSTestProject.Receiver.runtimeconfig.json
 D:\Projects\SQS Test\SQSTestProject\SQSTestProject.Receiver\bin\Debug\net6.0\SQSTestProject.Receiver.dll
 D:\Projects\SQS Test\SQSTestProject\SQSTestProject.Receiver\bin\Debug\net6.0\SQSTestProject.Receiver.pdb
-D:\Projects\SQS Test\SQSTestProject\SQSTestProject.Receiver\bin\Debug\net6.0\Amazon.Lambda.S3Events.dll
 D:\Projects\SQS Test\SQSTestProject\SQSTestProject.Receiver\bin\Debug\net6.0\AWSSDK.Core.dll
 D:\Projects\SQS Test\SQSTestProject\SQSTestProject.Receiver\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
 D:\Projects\SQS Test\SQSTestProject\SQSTestProject.Receiver\bin\Debug\net6.0\AWSSDK.S3.dll
