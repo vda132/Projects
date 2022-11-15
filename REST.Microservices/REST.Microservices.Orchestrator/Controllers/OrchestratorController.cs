@@ -19,6 +19,7 @@ namespace REST.Microservices.Orchestrator.Controllers
         [HttpGet("users")]
         public async Task<IActionResult> GetAllUsers(CancellationToken cancellationToken)
         {
+            _logger.LogInformation("Fetching all users starts");
             var result = await _userClient.GetUsers(cancellationToken);
             return Ok(result);
         }
@@ -26,6 +27,7 @@ namespace REST.Microservices.Orchestrator.Controllers
         [HttpGet("users/{id}")]
         public async Task<IActionResult> GetUserById(int id, CancellationToken cancellationToken)
         {
+            _logger.LogInformation($"Fetching user with id:{id} starts");
             var result = await _userClient.GetUser(id, cancellationToken);
             return result is not null ? Ok(result) : NotFound("User was not found");
         }

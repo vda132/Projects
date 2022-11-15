@@ -20,7 +20,7 @@ namespace REST.Microservices.UserMS.Controllers
         [ProducesResponseType(typeof(IActionResult), StatusCodes.Status200OK)]
         public async Task<IActionResult> GetAll()
         {
-            _logger.LogInformation("Fetching all users");
+            _logger.LogInformation($"Fetching all users in {nameof(UsersController)} get endpoint");
             return Ok(await _userService.GetUsers());
         }
 
@@ -30,7 +30,7 @@ namespace REST.Microservices.UserMS.Controllers
         [ProducesResponseType(typeof(IActionResult), StatusCodes.Status404NotFound)]
         public async Task<IActionResult> Get(int id)
         {
-            _logger.LogInformation($"Fetching user with id {id}");
+            _logger.LogInformation($"Fetching user with id {id} in {nameof(UsersController)} get by id endpoint");
             var user = await _userService.GetUser(id);
             
             return user is not null ? Ok(user) : NotFound("User was not found");
