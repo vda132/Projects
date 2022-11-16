@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.Net.MediatR.CRUD", "ASP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.Net.MediatR.Contacts", "ASP.Net.MediatR.Contacts\ASP.Net.MediatR.Contacts.csproj", "{FF15AD17-E5BB-405B-9E3B-B6B926C2C5DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.Net.MediatR.Services", "ASP.Net.MediatR.Services\ASP.Net.MediatR.Services.csproj", "{2BB81B8F-9B17-4E85-A443-035326727754}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.Net.MediatR.Services", "ASP.Net.MediatR.Services\ASP.Net.MediatR.Services.csproj", "{2BB81B8F-9B17-4E85-A443-035326727754}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.Net.MediatR.API", "ASP.Net.MediatR.API\ASP.Net.MediatR.API.csproj", "{2EAF6B0A-7786-400A-A3C6-447A1896E50F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.Net.MediatR.API", "ASP.Net.MediatR.API\ASP.Net.MediatR.API.csproj", "{2EAF6B0A-7786-400A-A3C6-447A1896E50F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.Net.MediatR.Services.Tests", "ASP.Net.MediatR.Services.Tests\ASP.Net.MediatR.Services.Tests.csproj", "{420CD321-20AE-47A9-BDC0-C8584890361F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{2EAF6B0A-7786-400A-A3C6-447A1896E50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EAF6B0A-7786-400A-A3C6-447A1896E50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EAF6B0A-7786-400A-A3C6-447A1896E50F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{420CD321-20AE-47A9-BDC0-C8584890361F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420CD321-20AE-47A9-BDC0-C8584890361F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420CD321-20AE-47A9-BDC0-C8584890361F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420CD321-20AE-47A9-BDC0-C8584890361F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
